@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "537cdb4e387840baac8b4589007eb4ad",
+    "title": "first test video",
+    "description": "its a test",
+    "creator": "tester",
+    "tags": [
+      "#flask",
+      "#test"
+    ],
+    "video_path": "videos/537cdb4e387840baac8b4589007eb4ad.mp4",
+    "thumbnail_path": "thumbnails/537cdb4e387840baac8b4589007eb4ad.png",
+    "uploaded_at": "2026-04-14T15:26:32Z",
+    "video_mime": "video/mp4"
+  }
+]
