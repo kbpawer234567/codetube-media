@@ -1,0 +1,13 @@
+[
+  {
+    "slug": "first-test-video",
+    "title": "first test video",
+    "description": "",
+    "creator": "creator",
+    "tags": [],
+    "video_path": "videos/first-test-video.mp4",
+    "thumbnail_path": "thumbnails/first-test-video.png",
+    "uploaded_at": "2026-04-14T15:19:02Z",
+    "video_mime": "video/mp4"
+  }
+]
