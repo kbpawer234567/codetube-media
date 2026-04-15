@@ -11,6 +11,22 @@
     "video_path": "videos/537cdb4e387840baac8b4589007eb4ad.mp4",
     "thumbnail_path": "thumbnails/537cdb4e387840baac8b4589007eb4ad.png",
     "uploaded_at": "2026-04-14T15:26:32Z",
+    "video_mime": "video/mp4",
+    "video_url": "https://raw.githubusercontent.com/kbpawer234567/codetube-media/main/videos/537cdb4e387840baac8b4589007eb4ad.mp4",
+    "thumbnail_url": "https://raw.githubusercontent.com/kbpawer234567/codetube-media/main/thumbnails/537cdb4e387840baac8b4589007eb4ad.png"
+  },
+  {
+    "slug": "c87da827b0564395a3fff5f6c3d29e03",
+    "title": "glas",
+    "description": "",
+    "creator": "KBPAWER",
+    "tags": [
+      "glas",
+      "asmr"
+    ],
+    "video_path": "videos/c87da827b0564395a3fff5f6c3d29e03.mp4",
+    "thumbnail_path": "thumbnails/c87da827b0564395a3fff5f6c3d29e03.jpg",
+    "uploaded_at": "2026-04-15T16:51:49Z",
     "video_mime": "video/mp4"
   }
 ]
