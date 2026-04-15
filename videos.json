@@ -11,6 +11,22 @@
     "video_path": "videos/2ba7977a643b483fb45e02dbff65e78d.mp4",
     "thumbnail_path": "thumbnails/2ba7977a643b483fb45e02dbff65e78d.jpg",
     "uploaded_at": "2026-04-15T17:19:17Z",
+    "video_mime": "video/mp4",
+    "video_url": "https://raw.githubusercontent.com/kbpawer234567/codetube-media/main/videos/2ba7977a643b483fb45e02dbff65e78d.mp4",
+    "thumbnail_url": "https://raw.githubusercontent.com/kbpawer234567/codetube-media/main/thumbnails/2ba7977a643b483fb45e02dbff65e78d.jpg"
+  },
+  {
+    "slug": "70ffdde6594d43108b0ee286dc87a0fe",
+    "title": "vogels dupl",
+    "description": "",
+    "creator": "KBPAWER",
+    "tags": [
+      "vogels",
+      "natuur"
+    ],
+    "video_path": "videos/70ffdde6594d43108b0ee286dc87a0fe.mp4",
+    "thumbnail_path": null,
+    "uploaded_at": "2026-04-15T17:31:01Z",
     "video_mime": "video/mp4"
   }
 ]
