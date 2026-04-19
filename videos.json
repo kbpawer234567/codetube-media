@@ -10,6 +10,22 @@
     "video_path": "videos/e3ad99dfe92342758ed835f4c5be5169.mp4",
     "thumbnail_path": "thumbnails/e3ad99dfe92342758ed835f4c5be5169.jpg",
     "uploaded_at": "2026-04-18T17:22:04Z",
+    "video_mime": "video/mp4",
+    "video_url": "https://raw.githubusercontent.com/kbpawer234567/codetube-media/main/videos/e3ad99dfe92342758ed835f4c5be5169.mp4",
+    "thumbnail_url": "https://raw.githubusercontent.com/kbpawer234567/codetube-media/main/thumbnails/e3ad99dfe92342758ed835f4c5be5169.jpg"
+  },
+  {
+    "slug": "2f15424f93e742b59feab27d40dc9bac",
+    "title": "Windows shutdown",
+    "description": "",
+    "creator": "KBPAWER",
+    "tags": [
+      "windows",
+      "windows11"
+    ],
+    "video_path": "videos/2f15424f93e742b59feab27d40dc9bac.mp4",
+    "thumbnail_path": "thumbnails/2f15424f93e742b59feab27d40dc9bac.png",
+    "uploaded_at": "2026-04-19T08:11:41Z",
     "video_mime": "video/mp4"
   }
 ]
